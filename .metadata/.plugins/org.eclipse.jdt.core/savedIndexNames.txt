@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+C:\Users\MX\Documents\Mendix\TranslateModule-main\.metadata\.plugins\org.eclipse.jdt.core
+2142732271.index
+3245341655.index
+4221527293.index
+1198170795.index
+2081698179.index
+1865797976.index
+3097397129.index
+2516852192.index
+1853830269.index
+2610085596.index
+2353512575.index
+2886880278.index
+1153222116.index
+382561632.index
+3244833391.index
+2856820111.index
+1426177130.index
+2195065230.index
+1948468741.index

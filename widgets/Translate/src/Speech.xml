@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget id="mxtechies.speech.Speech" pluginWidget="true" needsEntityContext="true" offlineCapable="true"
+        supportedPlatform="Web"
+        xmlns="http://www.mendix.com/widget/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.mendix.com/widget/1.0/ ../node_modules/mendix/custom_widget.xsd">
+    <name>Speech</name>
+    <description>My widget description</description>
+    <icon/>
+    <properties>
+        <propertyGroup caption="General">
+     <property key="myAttribute" type="attribute">
+	<caption>Destination Language</caption>
+	<description>Select the destination string</description>
+    <attributeTypes>
+        <attributeType name="String" />
+    </attributeTypes>
+
+</property>
+
+ <property key="desLang" type="attribute">
+	<caption>Destination Language </caption>
+	<description>To select the destination language</description>
+    <attributeTypes>
+        <attributeType name="String" />
+    </attributeTypes>
+
+</property>            
+        </propertyGroup>
+    </properties>
+</widget>
